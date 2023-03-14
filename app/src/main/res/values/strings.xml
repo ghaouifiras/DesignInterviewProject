@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ScProject</string>
+    <string name="desciption1_device">The information from your child’s device will help us to assess their mental health, duration of sleep, places visited, used applications  etc.
+It also gives you the ability to block or allow installed applications</string>
+    <string name="desciption2_device">Please follow the following steps:
+1.Bring your child’s mobile phone
+2.Scan this QR code with your child’s device camera
+3.You will be redirected to the 4IN shield application download page
+4.Once the application is installed, click Next </string>
+</resources>
